@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "workspace-dev": {
+      "command": "/absolute/path/to/lm-studio-tools/target/release/lm-studio-tools",
+      "args": [
+        "--root",
+        "/absolute/path/to/your/project",
+        "--max-output",
+        "8192"
+      ]
+    }
+  }
+}
